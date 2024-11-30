@@ -1,0 +1,19 @@
+                     North American Industry Classification System (NAICS)       VALUE
+                                    Transportation and warehousing [48-49] 2592.000000
+                              Management of companies and enterprises [55] 2576.000000
+                                                        All transportation 2569.000000
+                                  Information and cultural industries [51] 2105.250000
+                        Mining, quarrying, and oil and gas extraction [21] 1933.600000
+                      Professional, scientific and technical services [54] 1488.750000
+                                                     Manufacturing [31-33] 1459.250000
+                      Finance and insurance excluding monetary authorities 1454.800000
+                                                      Wholesale trade [41] 1385.666667
+         Postal services, couriers and messengers, warehousing and storage 1200.500000
+                                       Total, selected services industries  988.000000
+                                            Total, all surveyed industries  951.166667
+Administrative and support, waste management and remediation services [56]  296.500000
+                                                      Retail trade [44-45]  145.500000
+                           Agriculture, forestry, fishing and hunting [11]  114.000000
+                                                         Construction [23]   29.500000
+                                   Real estate and rental and leasing [53]         NaN
+                                                            Utilities [22]         NaN

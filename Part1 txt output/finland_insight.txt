@@ -1,0 +1,25 @@
+### Data group by main industry and calculate average share of enterprises involved in innovation activities ###
+                                  Main Industry Name  \
+3                      Information and Communication   
+6  Professional, Scientific, and Technical Activi...   
+4                                      Manufacturing   
+0                 Agriculture, Forestry, and Fishing   
+9                         Wholesale and Retail Trade   
+1  Electricity, Gas, Steam, and Air Conditioning ...   
+5                               Mining and Quarrying   
+2                 Financial and Insurance Activities   
+8           Water Supply, Sewerage, Waste Management   
+7                         Transportation and Storage   
+
+   Innovation activity of enterprises by industry  
+3                                       27.203801  
+6                                       26.786842  
+4                                       26.768820  
+0                                       21.786842  
+9                                       20.400000  
+1                                       19.644737  
+5                                       17.786842  
+2                                       16.229605  
+8                                       14.927193  
+7                                       10.096491  
+

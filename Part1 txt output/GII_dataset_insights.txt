@@ -1,0 +1,297 @@
+### Trend Analysis: Overall Index ###
+The Overall Index trend over time:
+{'Overall index': Year
+2008    0.434418
+2009    0.466708
+2010    0.414528
+2011    0.437708
+2012    0.406859
+2013    0.434158
+2014    0.436949
+2015    0.449026
+2016    0.456538
+2017    0.432805
+2018    0.475724
+2019    0.490558
+2020    0.487508
+2021    0.493029
+Name: Index, dtype: float64, 'ICT': Year
+2008    0.329195
+2009    0.294136
+2010    0.322816
+2011    0.365591
+2012    0.381963
+2013    0.389877
+2014    0.380154
+2015    0.411963
+2016    0.435639
+2017    0.490784
+2018    0.521220
+2019    0.540340
+2020    0.567631
+2021    0.523328
+Name: Index, dtype: float64, 'Skills': Year
+2008    0.491896
+2009    0.487055
+2010    0.471494
+2011    0.477527
+2012    0.462036
+2013    0.458511
+2014    0.458435
+2015    0.458502
+2016    0.410273
+2017    0.417473
+2018    0.429917
+2019    0.447059
+2020    0.450127
+2021    0.455734
+Name: Index, dtype: float64, 'Research and Development': Year
+2008    0.202541
+2009    0.206333
+2010    0.212228
+2011    0.213130
+2012    0.226600
+2013    0.225274
+2014    0.233252
+2015    0.240668
+2016    0.251401
+2017    0.255692
+2018    0.268546
+2019    0.270870
+2020    0.286327
+2021    0.294645
+Name: Index, dtype: float64, 'Industry activity': Year
+2008    0.556764
+2009    0.555339
+2010    0.504734
+2011    0.515618
+2012    0.514824
+2013    0.552221
+2014    0.539648
+2015    0.578696
+2016    0.573445
+2017    0.563412
+2018    0.567607
+2019    0.561237
+2020    0.576554
+2021    0.580219
+Name: Index, dtype: float64, 'Access to finance': Year
+2008    0.682386
+2009    0.708479
+2010    0.708843
+2011    0.705555
+2012    0.698848
+2013    0.653955
+2014    0.655913
+2015    0.629235
+2016    0.620878
+2017    0.589905
+2018    0.650524
+2019    0.658554
+2020    0.641662
+2021    0.633964
+Name: Index, dtype: float64}
+
+### Category Comparison ###
+Average index by category:
+Category Label
+Research and Development    0.242022
+ICT                         0.425499
+Overall index               0.451235
+Skills                      0.455386
+Industry activity           0.552936
+Access to finance           0.659836
+Name: Index, dtype: float64
+
+### Country-Specific Insights ###
+Top 5 countries for the Overall Index:
+Economy Label
+China, Hong Kong SAR        0.970071
+Cyprus                      0.963650
+United States of America    0.955207
+Denmark                     0.942514
+Japan                       0.931279
+Name: Index, dtype: float64
+
+### Similar Countries Compared to Canada ###
+Top 5 similar countries:
+Finland
+
+       Year  Economy Economy Label Category            Category Label   Index  \
+312    2008      246       Finland   FTRI00             Overall index  0.8547   
+313    2008      246       Finland   FTRI01                       ICT  0.7202   
+314    2008      246       Finland   FTRI02                    Skills  0.8890   
+315    2008      246       Finland   FTRI03  Research and Development  0.5147   
+316    2008      246       Finland   FTRI04         Industry activity  0.8373   
+...     ...      ...           ...      ...                       ...     ...   
+13333  2021      246       Finland   FTRI01                       ICT  0.8279   
+13334  2021      246       Finland   FTRI02                    Skills  0.9026   
+13335  2021      246       Finland   FTRI03  Research and Development  0.5859   
+13336  2021      246       Finland   FTRI04         Industry activity  0.8162   
+13337  2021      246       Finland   FTRI05         Access to finance  0.8063   
+
+       Index Footnote Index Missing value  
+312               NaN                 NaN  
+313               NaN                 NaN  
+314               NaN                 NaN  
+315               NaN                 NaN  
+316               NaN                 NaN  
+...               ...                 ...  
+13333             NaN                 NaN  
+13334             NaN                 NaN  
+13335             NaN                 NaN  
+13336             NaN                 NaN  
+13337             NaN                 NaN  
+
+[84 rows x 8 columns]
+
+United Arab Emirates
+
+       Year  Economy         Economy Label Category            Category Label  \
+942    2008      784  United Arab Emirates   FTRI00             Overall index   
+943    2008      784  United Arab Emirates   FTRI01                       ICT   
+944    2008      784  United Arab Emirates   FTRI02                    Skills   
+945    2008      784  United Arab Emirates   FTRI03  Research and Development   
+946    2008      784  United Arab Emirates   FTRI04         Industry activity   
+...     ...      ...                   ...      ...                       ...   
+13963  2021      784  United Arab Emirates   FTRI01                       ICT   
+13964  2021      784  United Arab Emirates   FTRI02                    Skills   
+13965  2021      784  United Arab Emirates   FTRI03  Research and Development   
+13966  2021      784  United Arab Emirates   FTRI04         Industry activity   
+13967  2021      784  United Arab Emirates   FTRI05         Access to finance   
+
+        Index  Index Footnote Index Missing value  
+942    0.5291             NaN                 NaN  
+943    0.4133             NaN                 NaN  
+944    0.5474             NaN                 NaN  
+945    0.1782             NaN                 NaN  
+946    0.6030             NaN                 NaN  
+...       ...             ...                 ...  
+13963  0.7984             NaN                 NaN  
+13964  0.5599             NaN                 NaN  
+13965  0.4990             NaN                 NaN  
+13966  0.7684             NaN                 NaN  
+13967  0.7808             NaN                 NaN  
+
+[84 rows x 8 columns]
+
+Austria
+
+       Year  Economy Economy Label Category            Category Label   Index  \
+42     2008       40       Austria   FTRI00             Overall index  0.8070   
+43     2008       40       Austria   FTRI01                       ICT  0.7663   
+44     2008       40       Austria   FTRI02                    Skills  0.7534   
+45     2008       40       Austria   FTRI03  Research and Development  0.5638   
+46     2008       40       Austria   FTRI04         Industry activity  0.7503   
+...     ...      ...           ...      ...                       ...     ...   
+13063  2021       40       Austria   FTRI01                       ICT  0.7639   
+13064  2021       40       Austria   FTRI02                    Skills  0.7109   
+13065  2021       40       Austria   FTRI03  Research and Development  0.5628   
+13066  2021       40       Austria   FTRI04         Industry activity  0.7883   
+13067  2021       40       Austria   FTRI05         Access to finance  0.7917   
+
+       Index Footnote Index Missing value  
+42                NaN                 NaN  
+43                NaN                 NaN  
+44                NaN                 NaN  
+45                NaN                 NaN  
+46                NaN                 NaN  
+...               ...                 ...  
+13063             NaN                 NaN  
+13064             NaN                 NaN  
+13065             NaN                 NaN  
+13066             NaN                 NaN  
+13067             NaN                 NaN  
+
+[84 rows x 8 columns]
+
+South Africa
+
+       Year  Economy Economy Label Category            Category Label   Index  \
+828    2008      710  South Africa   FTRI00             Overall index  0.5360   
+829    2008      710  South Africa   FTRI01                       ICT  0.1861   
+830    2008      710  South Africa   FTRI02                    Skills  0.5344   
+831    2008      710  South Africa   FTRI03  Research and Development  0.4293   
+832    2008      710  South Africa   FTRI04         Industry activity  0.5831   
+...     ...      ...           ...      ...                       ...     ...   
+13849  2021      710  South Africa   FTRI01                       ICT  0.6064   
+13850  2021      710  South Africa   FTRI02                    Skills  0.4627   
+13851  2021      710  South Africa   FTRI03  Research and Development  0.4736   
+13852  2021      710  South Africa   FTRI04         Industry activity  0.6209   
+13853  2021      710  South Africa   FTRI05         Access to finance  0.8290   
+
+       Index Footnote Index Missing value  
+828               NaN                 NaN  
+829               NaN                 NaN  
+830               NaN                 NaN  
+831               NaN                 NaN  
+832               NaN                 NaN  
+...               ...                 ...  
+13849             NaN                 NaN  
+13850             NaN                 NaN  
+13851             NaN                 NaN  
+13852             NaN                 NaN  
+13853             NaN                 NaN  
+
+[84 rows x 8 columns]
+
+Israel
+
+       Year  Economy Economy Label Category            Category Label   Index  \
+438    2008      376        Israel   FTRI00             Overall index  0.8184   
+439    2008      376        Israel   FTRI01                       ICT  0.5510   
+440    2008      376        Israel   FTRI02                    Skills  0.8846   
+441    2008      376        Israel   FTRI03  Research and Development  0.5673   
+442    2008      376        Israel   FTRI04         Industry activity  0.8312   
+...     ...      ...           ...      ...                       ...     ...   
+13459  2021      376        Israel   FTRI01                       ICT  0.7674   
+13460  2021      376        Israel   FTRI02                    Skills  0.8117   
+13461  2021      376        Israel   FTRI03  Research and Development  0.5986   
+13462  2021      376        Israel   FTRI04         Industry activity  0.8941   
+13463  2021      376        Israel   FTRI05         Access to finance  0.7289   
+
+       Index Footnote Index Missing value  
+438               NaN                 NaN  
+439               NaN                 NaN  
+440               NaN                 NaN  
+441               NaN                 NaN  
+442               NaN                 NaN  
+...               ...                 ...  
+13459             NaN                 NaN  
+13460             NaN                 NaN  
+13461             NaN                 NaN  
+13462             NaN                 NaN  
+13463             NaN                 NaN  
+
+[84 rows x 8 columns]
+
+Canada
+
+       Year  Economy Economy Label Category            Category Label   Index  \
+174    2008      124        Canada   FTRI00             Overall index  0.8746   
+175    2008      124        Canada   FTRI01                       ICT  0.5814   
+176    2008      124        Canada   FTRI02                    Skills  0.8106   
+177    2008      124        Canada   FTRI03  Research and Development  0.7123   
+178    2008      124        Canada   FTRI04         Industry activity  0.7916   
+...     ...      ...           ...      ...                       ...     ...   
+13195  2021      124        Canada   FTRI01                       ICT  0.8929   
+13196  2021      124        Canada   FTRI02                    Skills  0.7375   
+13197  2021      124        Canada   FTRI03  Research and Development  0.6934   
+13198  2021      124        Canada   FTRI04         Industry activity  0.7779   
+13199  2021      124        Canada   FTRI05         Access to finance  0.8499   
+
+       Index Footnote Index Missing value  
+174               NaN                 NaN  
+175               NaN                 NaN  
+176               NaN                 NaN  
+177               NaN                 NaN  
+178               NaN                 NaN  
+...               ...                 ...  
+13195             NaN                 NaN  
+13196             NaN                 NaN  
+13197             NaN                 NaN  
+13198             NaN                 NaN  
+13199             NaN                 NaN  
+
+[84 rows x 8 columns]
+

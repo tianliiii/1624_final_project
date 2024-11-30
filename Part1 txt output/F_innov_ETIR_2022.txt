@@ -1,0 +1,10 @@
+                                       Industry Name  Total_Innovation_Expenditure  Total_Turnover  Total_Turnover_From_Innovations  Innovation_Intensity (%)  Innovation_Revenue_Share (%)
+                                Mining and Quarrying                          11.0           466.0                           2424.0                  2.360515                    520.171674
+                          Transportation and Storage                          59.0          5852.0                          19348.0                  1.008202                    330.622010
+Electricity, Gas, Steam, and Air Conditioning Supply                         109.0          8791.0                          21069.0                  1.239904                    239.665567
+            Water Supply, Sewerage, Waste Management                          24.0          1279.0                           2908.0                  1.876466                    227.365129
+                          Wholesale and Retail Trade                        3171.0         92633.0                         204281.0                  3.423186                    220.527242
+                       Information and Communication                        2927.0         20682.0                          41518.0                 14.152403                    200.744609
+  Professional, Scientific, and Technical Activities                        1062.0          4706.0                           8949.0                 22.566936                    190.161496
+                  Financial and Insurance Activities                         485.0         15728.0                          23468.0                  3.083672                    149.211597
+                                       Manufacturing                       10973.0        329350.0                         416380.0                  3.331714                    126.424776

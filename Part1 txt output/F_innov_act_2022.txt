@@ -1,0 +1,11 @@
+                                  Main Industry Name  Innovation activity of enterprises by industry
+                       Information and Communication                                       27.203801
+  Professional, Scientific, and Technical Activities                                       26.786842
+                                       Manufacturing                                       26.768820
+                  Agriculture, Forestry, and Fishing                                       21.786842
+                          Wholesale and Retail Trade                                       20.400000
+Electricity, Gas, Steam, and Air Conditioning Supply                                       19.644737
+                                Mining and Quarrying                                       17.786842
+                  Financial and Insurance Activities                                       16.229605
+            Water Supply, Sewerage, Waste Management                                       14.927193
+                          Transportation and Storage                                       10.096491

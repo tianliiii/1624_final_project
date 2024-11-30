@@ -1,0 +1,19 @@
+                     North American Industry Classification System (NAICS)  VALUE
+                                   Real estate and rental and leasing [53] 69.325
+                      Professional, scientific and technical services [54] 64.200
+                                                         Construction [23] 62.925
+                                                            Utilities [22] 62.825
+                                                      Retail trade [44-45] 60.275
+                                       Total, selected services industries 60.225
+         Postal services, couriers and messengers, warehousing and storage 59.975
+                                            Total, all surveyed industries 59.725
+                                                      Wholesale trade [41] 59.625
+Administrative and support, waste management and remediation services [56] 57.625
+                        Mining, quarrying, and oil and gas extraction [21] 56.950
+                                    Transportation and warehousing [48-49] 56.800
+                      Finance and insurance excluding monetary authorities 56.425
+                                                     Manufacturing [31-33] 56.400
+                                                        All transportation 56.300
+                              Management of companies and enterprises [55] 55.375
+                           Agriculture, forestry, fishing and hunting [11] 55.075
+                                  Information and cultural industries [51] 50.050
